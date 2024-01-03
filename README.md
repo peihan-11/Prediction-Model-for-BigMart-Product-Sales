@@ -1,6 +1,6 @@
 **Prediction-Model-for-BigMart-Product-Sales**
 
-**About the Data**
+# About the Data
 **Data set:**
 The data set comprises store attributes for BigMart, a grocery store chain with several stores in different cities.
 1. The data set was sourced by The Devastator(https://www.kaggle.com/thedevastator)
