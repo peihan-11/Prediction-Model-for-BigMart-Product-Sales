@@ -22,6 +22,7 @@ Type of Outlet_Identifier:  ['out049' 'out018' 'out010' 'out013' 'out027' 'out04
 **Amount of Outlet_Location_Type:  3**
 Type of Outlet_Location_Type:  ['tier 1' 'tier 3' 'tier 2']
 
+
 # The goal
 1. **Show total sales in each outlet**
 2. **Predict the sales of different item types in each outlet next time**
